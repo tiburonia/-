@@ -17,5 +17,7 @@ def reserve():
     return f"{name}님의 예약이 완료되었습니다!"
 
 if __name__ == "__main__":
-    print("🚀 서버 실행 중: http://localhost:5000", flush=True)
+    print("🚀 서버 실행 중입니다람쥐: http://localhost:5000", flush=True)
     app.run(debug=True)
+
+
